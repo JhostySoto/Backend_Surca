@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Archivos de asistente de IA (locales)
+CLAUDE.md
+.claude/
+
+# Editor y herramientas
+coverage/
+*.tsbuildinfo
+.vscode/
+.idea/
